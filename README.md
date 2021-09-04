@@ -1,1 +1,3 @@
-# facialexpredictor
+#This is Facial Expression Predictor
+
+This Project works on Machine Learning using FER and Matplotlib, model is trained and tested with with a couple of expression images, it takes the image as an input, detects the approximate emotions that the face has shown and gives the result in form of percentage as an output. The results are saved onto the image itself. The emotions are predicted by multiple dots on the face given, it takes those dots as an array, in a form of rectangular box and compares the set of array given to the set of array that are already present or provided to the model that it is trained over.
